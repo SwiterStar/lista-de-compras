@@ -1,0 +1,52 @@
+-------------------------------------------
+Lista de Compras
+-------------------------------------------
+Produtos Frescos:
+
+Frutas (maçã, banana, laranja, pera, uva)
+Legumes (cenoura, batata, cebola, alho, tomate, alface, espinafre, pimento)
+Peixe (bacalhau, sardinhas, robalo)
+Carne (frango, porco, vaca)
+-------------------------------------------
+Laticínios:
+
+Leite
+Queijo (queijo, queijo fresco)
+Manteiga
+Iogurtes
+-------------------------------------------
+Padaria e Cereais:
+
+Pão (pão alentejano, pão de forma)
+Arroz
+Massa (espaguete)
+Farinha
+Açúcar
+Café
+Chá
+Ovos
+-------------------------------------------
+Molhos e Especiarias:
+
+Azeite de oliva
+Vinagre
+Sal
+Pimenta
+Ervas aromáticas (orégãos, salsa, louro)
+Molhos (maionese, ketchup, molho de soja)
+-------------------------------------------
+Enlatados e Conservas:
+
+Atum em lata
+Feijão enlatado
+Polpa de tomate
+-------------------------------------------
+Produtos de Higiene e Limpeza:
+
+Sabonete
+Champô
+Pasta de dentes
+Papel higiénico
+Detergente para loiça
+Limpa-Vidros
+-------------------------------------------

@@ -1,2 +1,2 @@
-# lista-de-compras
-lista de compras
+Titulo : Lista de Compras
+Autor : Henrique Miguel Alegre (Id: 8116237, NISS: 12055576856)
